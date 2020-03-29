@@ -39,7 +39,7 @@ export default class App extends Component {
         <div className="card">
           <h1 className="advice">{this.state.advice}</h1>
           <div className="buttonContainer">
-            <button className="button">Get Advice</button>
+            <button className="button" onClick={this.fetchData}>Get Advice</button>
             <button id="tweet" className="ui inverted basic button">
               <a
                 target="_blank"
