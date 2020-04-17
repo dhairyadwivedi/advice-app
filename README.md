@@ -1,7 +1,7 @@
 ## Advice Generator 
 
 ### What is this repository for?
-<p>This app generates advice when the 'Get Advice' button is clicked. A live verion can be found <a href="https://sleepy-brown-e6383a.netlify.com/">HERE!</a></p>
+<p>This app generates advice when the 'Get Advice' button is clicked. A live verion can be found <a target="blank" href="https://advice-app-d.netlify.app">HERE!</a></p>
 
 <p>API Used - <a href="https://api.adviceslip.com/">Advice Slip JSON API</a></p>
 
